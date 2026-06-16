@@ -3,78 +3,87 @@
 </p>
 
 <p align="center">
-  <sub><i>"present day, present time... *hahahaha*"</i></sub>
+  <sub><i>"documenting what the wires leave behind."</i></sub>
 </p>
 
 <p align="center">
-  <b>nana</b> / sija student exploring digital traces and beautiful interfaces.
+  <b>elok</b> (naelle / nael) • learning to untangle digital footprints, design human interfaces, and find quiet spaces in obscure corners of the web.
 </p>
 
 <p align="center">
-  <a href="#currently">currently</a> • 
-  <a href="#working-with">working with</a> • 
-  <a href="#featured-projects">archives</a> • 
-  <a href="#little-corner">the corner</a>
+  <a href="#-current_state">current_state</a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#-utility_belt">utility_belt</a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#-archives">archives</a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#-digital_residue">digital_residue</a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#-the_corner">the_corner</a>
 </p>
 
 ---
 
-### 🕸️ currently
+### <samp>🛸 current_state</samp>
 
-investigating things left behind in the wires.
+spending nights observing how things break, how systems communicate, and how people interact with screens.
 
-*   **studying** network & information systems (sija).
-*   **analyzing** digital forensics and piecing together picoctf write-ups.
-*   **designing** quiet, deliberate user experiences in figma.
-*   **archiving** obscure internet culture and web anomalies.
+*   **studying:** network and information systems (sija) by day.
+*   **investigating:** memory dumps, file system anomalies, and picoctf challenges by night.
+*   **mapping:** writing down text-heavy ctfs write-ups so i don't forget how i got there.
+*   **sketching:** shaping interfaces in figma, focusing on layout pacing and clean typography.
 
 ---
 
-### 🛸 working with
+### <samp>🛠️ utility_belt</samp>
+
+the tools i keep reaching for when i build or dissect things. keeping it minimal and deliberate.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=cfc9ec&color=1a1b26" alt="Python" />
-  <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=cfc9ec&color=1a1b26" alt="Linux" />
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=cfc9ec&color=1a1b26" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=cfc9ec&color=1a1b26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=cfc9ec&color=1a1b26" alt="CSS3" />
-  <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=cfc9ec&color=1a1b26" alt="Figma" />
+  <img src="https://img.shields.io/badge/python-1a1b26?style=flat&logo=python&logoColor=cfc9ec" alt="Python" />
+  <img src="https://img.shields.io/badge/linux-1a1b26?style=flat&logo=linux&logoColor=cfc9ec" alt="Linux" />
+  <img src="https://img.shields.io/badge/javascript-1a1b26?style=flat&logo=javascript&logoColor=cfc9ec" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/html5-1a1b26?style=flat&logo=html5&logoColor=cfc9ec" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-1a1b26?style=flat&logo=css3&logoColor=cfc9ec" alt="CSS3" />
+  <img src="https://img.shields.io/badge/figma-1a1b26?style=flat&logo=figma&logoColor=cfc9ec" alt="Figma" />
 </p>
 
 ---
 
-### 📂 featured projects
+### <samp>📂 archives</samp>
+
+projects and text repositories born simply because i cared about them.
 
 #### 🌌 [orbita-elok](https://github.com/yourusername/orbita-elok)
-> an exploration of visual flow and interface design. a quiet space built to experiment with aesthetics, layouts, and front-end quirks.
+> a quiet repository for structural experimentation. playing around with front-end code, layouts, and interface behaviors that feel comfortable rather than trendy.
 
 #### 🕵️‍♂️ [writeupsCTF](https://github.com/yourusername/writeupsCTF)
-> breadcrumbs from midnight forensics and picoctf challenges. documenting the process of untangling complex digital puzzles, mostly for my future self.
+> a log of digital traces. notes, forensic artifacts, and logical steps taken during picoctf challenges. written mostly for my future self to retrace old paths.
 
 #### 🗺️ [all-eyes-on-papua](https://github.com/yourusername/all-eyes-on-papua)
-> a curated repository focusing on information, awareness, and digital footprints regarding the papua region. structural, deliberate, and necessary.
+> a collection of data, information mapping, and digital footprints regarding the papua region. structural, intentional, and documented with care.
 
 ---
 
-### 🔮 git stats
+### <samp>🔮 digital_residue</samp>
+
+automated proof of late-night activity in the terminal.
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=rose_pine&hide_border=true&title_color=9ccfd8&text_color=e0def4&icon_color=c4a7e7&bg_color=191724" alt="Nana's Stats" height="150px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=rose_pine&hide_border=true&title_color=9ccfd8&text_color=e0def4&bg_color=191724&langs_count=4" alt="Top Languages" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=rose_pine&hide_border=true&title_color=9ccfd8&text_color=e0def4&icon_color=c4a7e7&bg_color=191724" alt="Stats" height="135px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=rose_pine&hide_border=true&title_color=9ccfd8&text_color=e0def4&bg_color=191724&langs_count=4" alt="Languages" height="135px" />
 </p>
 
 ---
 
-### 🧷 little corner
+### <samp>🧷 the_corner</samp>
 
-| item | status |
-| :--- | :--- |
-| **listening to** | *cherry-coloured funk* — cocteau twins |
-| **reading** | file system forensic analysis notes & late 90s web logs |
-| **obsessed with** | geometric ui layouts & dead internet theory |
+a small slice of analog-to-digital reality.
 
-<br />
+*   **listening to:** *cherry-coloured funk* — cocteau twins
+*   **reading:** forensics file-system structures & old textfiles.com logs
+*   **obsessed with:** dead internet theory, vhs tracking lines, and crt emulation
+*   **open tabs:** 37 (mostly documentation and forgotten figma canvases)
+*   **coffee status:** iced, melting slowly
+
+---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=312e4c&height=60&section=footer" alt="footer" />
+  <sub><i>made quietly, somewhere between write-ups and unfinished figma files.</i></sub>
 </p>
