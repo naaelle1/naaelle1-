@@ -67,9 +67,8 @@ projects and text repositories born simply because i cared about them.
 
 automated proof of late-night activity in the terminal.
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=rose_pine&hide_border=true&title_color=9ccfd8&text_color=e0def4&icon_color=c4a7e7&bg_color=191724" alt="Stats" height="135px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=rose_pine&hide_border=true&title_color=9ccfd8&text_color=e0def4&bg_color=191724&langs_count=4" alt="Languages" height="135px" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/naaelle1/naaelle1/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 <p align="center">
