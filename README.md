@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="LINK_GIF_KAMU" width="700"/>
+  <img src="https://tenor.com/view/serial-experiments-lain-lain-anime-hat-walk-gif-12681392991519025068" width="700"/>
 </p>
 
 <div align="center">
