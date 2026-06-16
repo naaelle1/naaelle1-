@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="gifhttps://media1.tenor.com/m/r_1bvKSep6wAAAAd/serial-experiments-lain-lain.gif" alt="wired" width="550px" />
+  <img src="https://media1.tenor.com/m/r_1bvKSep6wAAAAd/serial-experiments-lain-lain.gif" alt="wired" width="550px" />
 </p>
 
 <p align="center">
