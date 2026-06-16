@@ -63,7 +63,7 @@ projects and text repositories born simply because i cared about them.
 
 ---
 
-### <samp>🔮 digital_residue</samp>
+### <samp>🔮 ⌁ patterns of activity</samp>
 
 automated proof of late-night activity in the terminal.
 
