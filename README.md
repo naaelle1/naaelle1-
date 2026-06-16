@@ -12,4 +12,21 @@ and other niche things.
 
 ⋆｡°✩ ☾ ✩°｡⋆
 
+## currently
+
+→ learning digital forensics
+→ solving picoCTF challenges
+→ exploring ui/ux design
+→ documenting write-ups
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=naaelle1&show_icons=true&theme=catppuccin_mocha&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naaelle1&layout=compact&theme=catppuccin_mocha&hide_border=true"/>
+
+## working with
+
+🐍 Python
+🐧 Linux
+🌐 JavaScript
+🎨 Figma
 </div>
