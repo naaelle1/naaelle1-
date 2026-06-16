@@ -68,11 +68,7 @@ projects and text repositories born simply because i cared about them.
 automated proof of late-night activity in the terminal.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/naaelle1/naaelle1/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-snake-dark.svg" alt="contribution snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/naaelle1/naaelle1/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
