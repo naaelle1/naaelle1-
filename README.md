@@ -61,6 +61,8 @@ projects and text repositories born simply because i cared about them.
 
 ---
 
+---
+
 ### <samp>🔮 digital_residue</samp>
 
 automated proof of late-night activity in the terminal.
@@ -70,6 +72,11 @@ automated proof of late-night activity in the terminal.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=rose_pine&hide_border=true&title_color=9ccfd8&text_color=e0def4&bg_color=191724&langs_count=4" alt="Languages" height="135px" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-snake-dark.svg" alt="contribution snake" width="100%" />
+</p>
+
+---
 ---
 
 ### <samp>🧷 the_corner</samp>
